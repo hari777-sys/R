@@ -1,4 +1,4 @@
-a <- c("a","b","c","d","e","f")
+a <- c(1:6)
 
 arr = array(a,dim = c(2,3,1))
 print(arr)
